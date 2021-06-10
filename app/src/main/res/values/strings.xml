@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Facebook Post UI</string>
+    <string name="todo">TODO</string>
+    <string name="camera">Camera</string>
+    <string name="photo_video">Photo / Video</string>
+    <string name="background_color">Background Color</string>
+    <string name="live_video">Live Video</string>
+    <string name="create_job">Create Job</string>
+    <string name="get_messages">Get Messages</string>
+    <string name="get_whatsapp_messages">Get WhatsApp Messages</string>
+    <string name="check_in">Check in</string>
+    <string name="feeling_activity">Feeling / Activity</string>
+    <string name="create_event">Create Event</string>
+    <string name="gif">GIF</string>
+    <string name="get_gift_card_purchases">Get Gift Card Purchases</string>
+</resources>
