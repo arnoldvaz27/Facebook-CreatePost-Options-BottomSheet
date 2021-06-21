@@ -1,4 +1,4 @@
-package com.example.differentandroidcodes;
+package com.example.facebookbottomsheetui;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
