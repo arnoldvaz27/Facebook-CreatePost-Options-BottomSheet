@@ -1,4 +1,4 @@
-package com.example.facebookbottomsheetui;
+package com.arnoldvaz27.facebookbottomsheetui;
 
 import org.junit.Test;
 
